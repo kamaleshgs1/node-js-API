@@ -1,0 +1,15 @@
+{
+    "Org1": {
+      "Name": "FPO",
+      "department": ["CCID", "CCID2", "CCID3", "CCID4", "FPO", "ProcessingUnit,"]
+    },
+    "Org2": {
+      "Name": "AnimalHusbandry",
+      "department": ["AHUnit"]
+    },
+    "Org3": {
+      "Name": "GS1IndiaAdmin",
+      "department": ["gs1admin"]
+    }
+  }
+  
